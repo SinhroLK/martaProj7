@@ -31,14 +31,13 @@ function animatePetals() {
 animatePetals();
 
 const messages = [
-    `Priznajem da je ovo malo corny, ali ...`,
-    "Martić, hteo sam da ti napravim ovo da probam da te oraspoložim.",
-    "Hoću da znaš da si mnogo voljena i da sam uvek tu za tebe",
-    "Hvala ti što se trudiš čak i kad ti je teško",
-    "Ti si jedna divna osoba koju ću da volim bez obzira na sve",
-    "Volim te najviše na svetu i želim da uvek budeš srećna"
-];
-
+    `Volim te Martić`,
+    "Volim te najviše na svetu",
+    "Želim da si uvek srećna",
+    "Jedva čekam da te vidim",
+    "Najdivnija moja...",
+    "Volim te"
+]
 let currentIndex = 0;
 let isTyping = false;
 
