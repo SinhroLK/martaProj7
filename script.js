@@ -31,10 +31,10 @@ function animatePetals() {
 animatePetals();
 
 const messages = [
-    `Volim te Martić`,
-    "Volim te najviše na svetu",
-    "Želim da si uvek srećna",
-    "Jedva čekam da te vidim",
+    `Volim te Martic`,
+    "Volim te najvise na svetu",
+    "Zelim da si uvek srecna",
+    "Jedva cekam da te vidim",
     "Najdivnija moja...",
     "Volim te"
 ]
